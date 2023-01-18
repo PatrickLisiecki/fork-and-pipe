@@ -23,15 +23,10 @@ both children.
            />
 </p>
 
-# Running the Project
-**1. Compile the source code and create an executable file**
-
-**2. Run the executable file by using the following command: ./[file_name.exe]**
-
 # Output in the Terminal
 <p align="left">
            <img 
-                      src="https://user-images.githubusercontent.com/96704934/213079144-282a0056-1d97-4632-928c-396fd7a88fc0.PNG"
+                      src="https://user-images.githubusercontent.com/96704934/213081217-65ff3d92-a35b-41e9-b2bb-008452a7d5f3.PNG"
                       alt="Output"
                       title="Output"
            />
