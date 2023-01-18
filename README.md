@@ -20,5 +20,6 @@ character).
                 <br>
                 <br>
                 In the below example the output from the ls -F command is piped to input of the nl command.
+                
            </p>
 </details>
