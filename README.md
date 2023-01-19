@@ -18,16 +18,26 @@ both children.
 <p align="center">
            <img 
                       src="https://user-images.githubusercontent.com/96704934/213078106-89c46552-bc52-4c67-915f-65b0c1819e70.PNG"
-                      alt="Example"
+                      alt="Example Output"
                       title="Example Output"
            />
 </p>
 
-# Output in the Terminal
+# Running the Project
+### Terminal
 <p align="left">
            <img 
                       src="https://user-images.githubusercontent.com/96704934/213081217-65ff3d92-a35b-41e9-b2bb-008452a7d5f3.PNG"
                       alt="Output"
                       title="Output"
+           />
+</p>
+
+### Folder
+<p align="left">
+           <img 
+                      src="https://user-images.githubusercontent.com/96704934/213353209-f3f2f362-86e1-42f7-90c0-edfe274b6540.PNG"
+                      alt="Files"
+                      title="Files"
            />
 </p>
